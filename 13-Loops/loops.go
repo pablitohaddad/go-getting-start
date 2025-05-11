@@ -47,8 +47,6 @@ func main(){
 
 	// Não podemos usar for em structs
 
-	for{
-		// for infinito
-	}
+	
 
 }
