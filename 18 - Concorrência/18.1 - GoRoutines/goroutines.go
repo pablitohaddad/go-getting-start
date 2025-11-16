@@ -5,10 +5,6 @@ import (
 	"time"
 )
 
-// Concorrencia  != PARALELISMO
-
-
-
 func main() {
 	go escrever("Olá Mundo!") // goroutine 
 	escrever("Programando em Go!")
